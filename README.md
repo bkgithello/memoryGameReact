@@ -11,4 +11,5 @@ A sleek, responsive memory game built with React and TypeScript. Test your memor
 
     Asynchronous Gameplay: Implements a 1-second "peek" window when cards don't match using setTimeout.
 
-    
+    Start the development server:
+   `npm run dev`
